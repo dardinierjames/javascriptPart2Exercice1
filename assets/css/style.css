@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #464646;
+}
+
+h1{
+    position: relative;
+    margin-top: 5%;
+    margin-left: 10%;
+    color: #ffffff;
+}
+
+img{
+    position: relative;
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 400px;
+    height: 250px;
+}
